@@ -1,0 +1,42 @@
+body{
+    /*background-color: chartreuse;*/
+}
+h1{
+    color:cadetblue;
+}
+header{
+    width: 70%;
+    height: 50px;
+    color: crimson;
+    background-color: aqua;
+}
+#kx1{
+    width: 70%;
+    background-color: #f71418;
+}
+#mi{
+    width: 70%;
+    background-color: #5065d9;
+    border-top: 5px solid chartreuse;
+    border-bottom: 5px solid chartreuse;
+
+}
+#m{
+
+    color: rgb(249, 252, 252);
+    border: slategray;
+    text-decoration: underline cornflowerblue;
+    text-align: center;
+}
+#k{
+    text-align: center;
+    color: rgb(13, 16, 206);
+}
+li{
+    color: ghostwhite;
+}
+.cls{
+color: mediumspringgreen;
+font-weight: 900;
+font-family: Arial, Helvetica, sans-serif;
+}
