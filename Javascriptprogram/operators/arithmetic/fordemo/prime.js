@@ -1,4 +1,4 @@
-var number=13;
+var number=10;
 var prime;
 flag=0;
 for(i=2;i<number;i++)
